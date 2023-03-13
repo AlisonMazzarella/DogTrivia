@@ -3,11 +3,11 @@ A simple dog trivia quiz for people who like to learn useless things.
 
 # Overview
 
-My program utilizes Visual Studios Windows Forms App (.NET Framework) template to create a trivia style quiz game about dogs. 
-The user has the opportunity to answer 10 questions regarding random dog information, at the end of the game the program will display the number of questions correct and the percent. 
+My program utilizes the Visual Studio Windows Forms App (.NET Framework) template to create a trivia-style quiz game about dogs.
+The user has the opportunity to answer 10 questions regarding random dog information; at the end of the game, the program will display the number of questions correct and the percent.
 
-My purpose for writing this program is I really love dogs and I really love pointless quizzes, like the ones Buzzfeed is always creating. While my quiz is obviously not as developed as theirs are because I don't have the skills yet, I view my program as a starting point, and when I learn more skills I can add to it. 
-The purpose of this quiz is to be fun, and maybe teach the audience some random, useless dog facts in the process. 
+My purpose for writing this program is that I really love dogs, and I really love pointless quizzes like the ones Buzzfeed is always creating. While my quiz is obviously not as developed as theirs is because I don't have the skills yet, I view my program as a starting point, and when I learn more skills I can add to it.
+The purpose of this quiz is to be fun and maybe teach the audience some random, useless dog facts in the process.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
