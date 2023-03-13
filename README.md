@@ -9,7 +9,7 @@ The user has the opportunity to answer 10 questions regarding random dog informa
 My purpose for writing this program is that I really love dogs, and I really love pointless quizzes like the ones Buzzfeed is always creating. While my quiz is obviously not as developed as theirs is because I don't have the skills yet, I view my program as a starting point, and when I learn more skills I can add to it.
 The purpose of this quiz is to be fun and maybe teach the audience some random, useless dog facts in the process.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/031zetHsKnc)
 
 # Development Environment
 
